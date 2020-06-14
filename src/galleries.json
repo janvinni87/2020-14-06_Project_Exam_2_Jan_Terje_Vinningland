@@ -1,0 +1,314 @@
+{
+  "arkivenes-hus": {
+    "title": "Arkivenes hus",
+    "client": "Lund+Slaatto arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg"
+    ]
+  },
+  "bge-contemporary-art-projects": {
+    "title": "BGE Contemporary Art Projects",
+    "client": "",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg"
+    ]
+  },
+  "haugalandsveggen": {
+    "title": "Haugalandsveggen",
+    "client": "ABHB Arkitekter/Tata Steel",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg"
+    ]
+  },
+  "hermetikken": {
+    "title": "Hermetikken",
+    "client": "Brandsberg-Dahls Arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg"
+    ]
+  },
+  "holmegenes": {
+    "title": "Holmegenes",
+    "client": "HAGA & GROV AS ",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ]
+  },
+  "husaboryggen": {
+    "title": "Husabøryggen",
+    "client": "Askim/ Lantto Arkitekter+GASA Arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg"
+    ]
+  },
+  "jernaldergarden": {
+    "title": "Jernaldergården",
+    "client": "NUNO arkitektur",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg",
+      "16.jpg"
+    ]
+  },
+  "jernverksbroa": {
+    "title": "Jernverksbroa",
+    "client": "Sjo Fasting Arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg"
+    ]
+  },
+  "midgardsormen": {
+    "title": "Midgardsormen",
+    "client": "Asplan Viak",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg",
+      "16.jpg",
+      "17.jpg",
+      "18.jpg"
+    ]
+  },
+  "prekestolen-nodhytte": {
+    "title": "Prekestolen nødhytte",
+    "client": "Mybox/Kebony",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg"
+    ]
+  },
+  "reilstad": {
+    "title": "Reilstad",
+    "client": "Helen&Hard arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg"
+    ]
+  },
+  "selsveien": {
+    "title": "Selsveien",
+    "client": "Espen Surnevik Arkitekter/Petersen Tegl",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg",
+      "16.jpg",
+      "17.jpg",
+      "18.jpg"
+    ]
+  },
+  "sinnesliklatten": {
+    "title": "Sinnesliklatten",
+    "client": "Link Arkitektur",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg"
+    ]
+  },
+  "torvkvartalet": {
+    "title": "Torvkvartalet",
+    "client": "AMB arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg"
+    ]
+  },
+  "under": {
+    "title": "Under",
+    "client": "Snøhetta/SCHÜCO",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg",
+      "11.jpg"
+    ]
+  },
+  "vigdelsveien": {
+    "title": "Vigdelsveien",
+    "client": "ARC Arkitekter/Magnorvinduet",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg"
+    ]
+  },
+  "ydalir": {
+    "title": "Ydalir",
+    "client": "Lund Slaatto Arkitekter",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg"
+    ]
+  }
+}

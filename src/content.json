@@ -1,0 +1,194 @@
+{
+  "about": {
+    "title": "My name is Sindre.",
+    "description": "I am a architectural photographer based in Stavanger, Norway.",
+    "text1": "Educated in photography at Queensland college of art in Brisbane, after a prepress apprenticeship at a printers.",
+    "text2": "Working with Norwegian and European architects, building material suppliers and entrepreneurs Sindre prides himself on translating space, texture and design intent into strong sets of images. He Strives to create strong and lasting professional relationships, by listening and attending to his clients' objectives first.",
+    "text3": "Over the years I have worked with alot of different clients.",
+    "text4": "Feel free to check out my client list, and gallery of my work.",
+    "image": "./img/about1.jpg",
+    "buttons": [
+      {
+        "text": "Hire me",
+        "url": "/contact"
+      },
+      {
+        "text": "Gallery",
+        "url": "/gallery"
+      },
+      {
+        "text": "Clients",
+        "url": "/clients"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "list": [
+      {
+        "name": "Arkivenes hus",
+        "slug":  "arkivenes-hus",
+        "featured": "9.jpg"
+      },
+      {
+        "name": "BGE Contemporary Art Projects",
+        "slug":  "bge-contemporary-art-projects",
+        "featured": "9.jpg"
+      },
+      {
+        "name": "Haugalandsveggen",
+        "slug":  "haugalandsveggen",
+        "featured": "6.jpg"
+      },
+      {
+        "name": "Hermetikken",
+        "slug":  "hermetikken",
+        "featured": "4.jpg"
+      },
+      {
+        "name": "Holmegenes",
+        "slug":  "holmegenes",
+        "featured": "1.jpg"
+      },
+      {
+        "name": "Husabøryggen",
+        "slug":  "husaboryggen",
+        "featured": "15.jpg"
+      },
+      {
+        "name": "Jernaldergården",
+        "slug":  "jernaldergarden",
+        "featured": "15.jpg"
+      },
+      {
+        "name": "Jernverksbroa",
+        "slug":  "jernverksbroa",
+        "featured": "1.jpg"
+      },
+      {
+        "name": "Midgardsormen",
+        "slug":  "midgardsormen",
+        "featured": "1.jpg"
+      },
+      {
+        "name": "Prekestolen nødhytte",
+        "slug":  "prekestolen-nodhytte",
+        "featured": "8.jpg"
+      },
+      {
+        "name": "Reilstad",
+        "slug":  "reilstad",
+        "featured": "11.jpg"
+      },
+      {
+        "name": "Selsveien",
+        "slug":  "selsveien",
+        "featured": "10.jpg"
+      },
+      {
+        "name": "Sinnesliklatten",
+        "slug":  "sinnesliklatten",
+        "featured": "2.jpg"
+      },
+      {
+        "name": "Torvkvartalet",
+        "slug":  "torvkvartalet",
+        "featured": "9.jpg"
+      },
+      {
+        "name": "Under",
+        "slug":  "under",
+        "featured": "6.jpg"
+      },
+      {
+        "name": "Vigdelsveien",
+        "slug":  "vigdelsveien",
+        "featured": "6.jpg"
+      },
+      {
+        "name": "Ydalir",
+        "slug":  "ydalir",
+        "featured": "3.jpg"
+      }
+    ]
+  },
+  "clients": {
+    "title": "Partial Client List",
+    "list": [
+      {
+        "name": "Asplan Viak",
+        "url": "https://www.asplanviak.no/"
+      },
+      {
+        "name": "Schüco",
+        "url": "https://www.schueco.com/web2/com"
+      },
+      {
+        "name": "Helen&Hard",
+        "url": "https://www.helenhard.no/"
+      },
+      {
+        "name": "Lund+Slaatto Architects",
+        "url": "https://www.lsa.no/"
+      },
+      {
+        "name": "Nuno arkitektur",
+        "url": "https://nunoarkitektur.no/"
+      },
+      {
+        "name": "Petersen Tegl",
+        "url": "https://en.petersen-tegl.dk/"
+      },
+      {
+        "name": "Nordan",
+        "url": "https://www.nordan.no/"
+      },
+      {
+        "name": "Lund Hagem Akritekter",
+        "url": "https://lundhagem.no/"
+      },
+      {
+        "name": "Hrtb Arkitekter",
+        "url": "https://hrtb.no/"
+      },
+      {
+        "name": "Solar",
+        "url": "https://www.solarnorge.no/"
+      },
+      {
+        "name": "Magnorvinduet",
+        "url": "https://magnorvinduet.no/"
+      },
+      {
+        "name": "HAGA & GROVE",
+        "url": "https://www.hagagrov.no/hjem"
+      },
+      {
+        "name": "Stein Halvorsen Arkitekter",
+        "url": "http://sh-arkitekter.no/"
+      },
+      {
+        "name": "Øgreid",
+        "url": "https://www.ogreideiendom.no/"
+      },
+      {
+        "name": "AMB arktiteker",
+        "url": "https://ark-amb.no/"
+      },
+      {
+        "name": "Kebony",
+        "url": "https://kebony.com/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Sindre Ellingsen",
+    "address1": "Hoveveien 7",
+    "address2": "4306",
+    "address3": "Sandnes",
+    "phone": "+ 47 917 77 387",
+    "email": "mail@sindreellingsen.com",
+    "text": "Please drop me a line here if you have any questions regarding my work, or if you wish to hire me."
+  }
+}
